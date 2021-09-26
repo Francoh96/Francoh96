@@ -1,4 +1,7 @@
-### Hola!! 👋 Soy Franco Heis
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ¡Oye! Me alegro de verte.</h1>
+
+### 👋 Bienvenido a mi página!!
+### Soy Franco, Fullstack developer de 🇦🇷 Entre Ríos, Argentina.
 
 
 Here are some ideas to get you started:
@@ -81,7 +84,7 @@ Here are some ideas to get you started:
       <a href="#">
         <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/psql.png" width="48" height="48" alt="Postgresql" />
       </a>
-      <br>Postgresql
+      <br>PostgreSQL
     </td>
     <td align="center" width="96">
       <a href="#">
