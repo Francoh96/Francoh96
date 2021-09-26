@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ¡Oye! Me alegro de verte.</h1>
 
-### 👋 Bienvenido a mi página!!
-### Soy Franco, Fullstack developer de 🇦🇷 Entre Ríos, Argentina.
+### 👋 Bienvenido a mi perfil!!
+### Soy Franco, Fullstack developer de <img src="https://images.emojiterra.com/google/android-11/128px/1f1e6-1f1f7.png" width="30"/> Entre Ríos, Argentina.
 
 
 Here are some ideas to get you started:
