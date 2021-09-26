@@ -1,9 +1,9 @@
 
 <p align="center" width="300">
    <!-- <img align="center" width="200" src="" /> -->
-   <h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ¡Oye! Me alegro de verte.</h2>
-    <h3 align="center">Soy Franco, Full Stack Developer de Entre Ríos, Argentina <img src="https://images.emojiterra.com/google/android-11/128px/1f1e6-1f1f7.png" width="30"/></h3>
-    <h3 align="center">👋 Bienvenido a mi perfil!! </h3>
+   <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ¡Oye! Me alegro de verte.</h1>
+    <h2 align="center">Soy Franco, Full Stack Developer de Entre Ríos, Argentina <img src="https://images.emojiterra.com/google/android-11/128px/1f1e6-1f1f7.png" width="30"/></h2>
+    <h2 align="center">👋 Bienvenido a mi perfil!! </h2>
 </p>
 
 
