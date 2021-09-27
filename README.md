@@ -1,23 +1,25 @@
 
 <p align="center" width="300">
-   <!-- <img align="center" width="200" src="" /> -->
    <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ¡Oye! Me alegro de verte.</h1>
     <h2 align="center">Soy Franco, Full Stack Developer de Entre Ríos, Argentina <img src="https://images.emojiterra.com/google/android-11/128px/1f1e6-1f1f7.png" width="30"/></h2>
     <h2 align="center">👋 Bienvenido a mi perfil!! </h2>
 </p>
 
 
-Here are some ideas to get you started:
+<h2>Sobre mí 👇</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Mi último proyecto fue un E-Commerce de instrumentos musicales.
+- ✔️Acabo de terminar mi proyecto individual: Countries App !!
+- 📖 Actualmente estoy aprendiendo TypeScript, Material UI.
+- 💻 Sigo aprendiendo sobre desarrollo web.
+- ⚡ Me gusta reunirme con amigos, tomar mate🧉 y soy un apasionado del fútbol⚽.
 
+- 💬 Pregúntame sobre JavaScript, React, PostgreSQL, MongoDB y más...
+- 📫 Contáctame en franheis96@gmail.com.
+- 📝Mirá mi <a href="https://drive.google.com/file/d/1EWRyK5X8zuZFY3B8gYpih8cPQT20uehF/view?usp=sharing">currículum</a>.
+
+
+<h2>Tecnologías aprendidas hasta el momento 👇</h2>
 
 <table align="center">
   <tr>
@@ -111,6 +113,6 @@ Here are some ideas to get you started:
 </table>
 
 
-<h3>Donde encontrarme</h3>
+<h2>Donde encontrarme 👇</h2>
 <p><a href="https://github.com/Francoh96" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/franco-heis-fullstack/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:franheis96@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-red.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 </p>
